@@ -1,12 +1,10 @@
 # Melanoma-Detection-using-Convolutional-Neural-Networks
 
-# Melanoma Detection using Convolutional Neural Networks
-
 ## Problem Statement
 
 The goal of this project is to build a CNN-based model to accurately detect melanoma, a type of cancer that can be deadly if not detected early. The model will evaluate images and alert dermatologists about the presence of melanoma, potentially reducing manual effort needed in diagnosis.
 
-![image](skin care.jpg)
+![image](skin.jpg)
 
 ## Dataset
 
